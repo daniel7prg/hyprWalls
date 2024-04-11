@@ -1,0 +1,2 @@
+# hyprWalls
+Wallpaper for myHyprdots
